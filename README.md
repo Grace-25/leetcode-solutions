@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0039-combination-sum](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0039-combination-sum/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
