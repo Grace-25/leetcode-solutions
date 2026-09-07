@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
