@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0835-image-overlap](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0835-image-overlap/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
