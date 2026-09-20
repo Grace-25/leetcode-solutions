@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0835-image-overlap](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0835-image-overlap/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Bit Manipulation
@@ -52,11 +54,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0049-group-anagrams](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0392-is-subsequence/) | Easy |
