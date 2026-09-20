@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0022-generate-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -81,12 +82,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0039-combination-sum/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -116,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0394-decode-string/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
