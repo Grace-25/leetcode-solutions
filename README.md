@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0394-decode-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Two Pointers
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0394-decode-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +130,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
