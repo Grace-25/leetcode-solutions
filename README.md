@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0394-decode-string/) | Medium |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
